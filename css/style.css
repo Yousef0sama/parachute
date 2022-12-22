@@ -67,6 +67,9 @@
     width: 340px;
     height: 40px;
     padding: 8px;
+    outline: none;
+    border: none;
+    border-radius: 8px;
 }
 
 .container .submit{
@@ -76,6 +79,7 @@
     width: 80px;
     height: 40px;
     cursor: pointer;
+    border-radius: 8px;
 }
 
 .container .submit:hover{
